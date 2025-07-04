@@ -13,6 +13,7 @@
   background-image: url("assets/bg.jpg");
   background-size: cover;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
 }
@@ -76,3 +77,14 @@ input.operator {
 input.plus {
   grid-row: span 2;
 }
+
+.footer {
+  background: #31475cca;
+  text-align: center;
+  color: #ccc;
+  margin-top: 40px;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 10px;
+}
+
