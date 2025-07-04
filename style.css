@@ -79,12 +79,14 @@ input.plus {
 }
 
 .footer {
-  background: #31475cca;
   text-align: center;
   color: #ccc;
-  margin-top: 40px;
-  padding: 5px;
-  border-radius: 5px;
+  margin-top: 20px;
   font-size: 10px;
+  width: 100%;
+  position: absolute;
+  bottom: 10px;
+  left: 0;
 }
+
 
